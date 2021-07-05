@@ -1,0 +1,2 @@
+E:\GitHub\G910_RGB\G910_RGB\x64\Debug\G910_RGB.exe
+E:\GitHub\G910_RGB\G910_RGB\x64\Debug\G910_RGB.pdb
